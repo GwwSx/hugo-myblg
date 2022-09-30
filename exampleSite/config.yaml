@@ -7,17 +7,17 @@ title: Example Site
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: taipan
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: 太潘
         weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
+    # ar:
+    #     languageName: عربي
+    #     languagedirection: rtl
+    #     title: موقع تجريبي
+    #     weight: 3
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 第一个博客....
         avatar:
             enabled: true
             local: true
